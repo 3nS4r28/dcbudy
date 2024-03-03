@@ -7,13 +7,13 @@ export default function Pramium() {
         <p>⊳ To use some of the commands of the DcBudy bot you need to buy Premium. To Buy <a className="text-white" href="https://discord.gg/QyvUUQ8rNK">CLİCK HERE</a> </p>
         <p>⊳ <a className="text-white" >Supported Money Types</a> </p>
         <div className="py-3"></div>
-        <p>⊳ ₺ (TL/TRY) 1 Month:25₺/1 Year:250₺ </p>
+        <p>⊳ ₺ (TL/TRY) 1 Month: 25₺/1 Year: 250₺ </p>
         <div className="py-3"></div>
-        <p>⊳ $ (Dollar) 1 Month:1$/1 Year:20$ </p>
+        <p>⊳ $ (Dollar) 1 Month: 1$/1 Year: 20$ </p>
         <div className="py-3"></div>
-        <p>⊳ € (Euro) 1 Month:1€/1 Year:20€ </p>
+        <p>⊳ € (Euro) 1 Month: 1€/1 Year: 20€ </p>
         <div className="py-3"></div>
-        <p>⊳ £ (Sterlin/Pound) 1 Month:1£/1 Year:20£ </p>
+        <p>⊳ £ (Sterlin/Pound) 1 Month: 1£/1 Year: 20£ </p>
         <div className="py-3"></div>
         </div>
             </div>
