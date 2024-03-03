@@ -18,7 +18,6 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/sebastianshop">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">𝘚𝘦𝘣𝘢𝘴𝘵𝘪𝘢𝘯 SHOP</h1>        
                                 <div className="flex items-center mt-1">
@@ -35,7 +34,6 @@ export default function Partners() {
                             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/sgExzGVVam">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1172657853056684102/1172671829673005146/maskot_profil_alev.png" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">AndroidCraftMC</h1>        
                                 <div className="flex items-center mt-1">
