@@ -6,7 +6,7 @@ export default function Pramium() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ To use some of the commands of the DcBudy bot you need to buy Premium. To Buy <a className="text-white" href="https://discord.gg/QyvUUQ8rNK">CLİCK HERE</a> </p>
 
-        <p>⊳ <a className="text-white">Supported Money Types</a> </p>
+        <p>⊳ <a className="text-white" >Supported Money Types</a> </p>
         <div className="py-3"></div>
         <p>⊳ ₺ (TL/TRY) </p>
         <div className="py-3"></div>
