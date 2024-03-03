@@ -2,7 +2,7 @@ export default function Privacy() {
 
     return (
         <div>
-            <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for MusicMaker</h1>
+            <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for DcBudy</h1>
             <p className="text-sm text-white/30 mb-4">Last Update: 03/03/2024  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ To use the DcBudy bot, you need to define the necessary permissions when adding it to your discord server. <a className="text-white">(Administrator)</a></p>
