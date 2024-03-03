@@ -14,9 +14,9 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
 <div className="py-3"></div>
-<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/1205170061413982279/vote">DcBudy</a> bot at certain intervals.</p>
-</div>
 <p>⊳ To use certain discord bot commands, you need to premium for the <a className="text-white" href="https://discord.gg/QyvUUQ8rNK">Buy a Premium</a> </p>
+<div className="py-3"></div>
+<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/1205170061413982279/vote">DcBudy</a> bot at certain intervals.</p>
 </div>
     </div>
   );
