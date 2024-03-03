@@ -9,42 +9,11 @@ export default function Partners() {
       </div>
                 <h1 className="py-7 animateHeader text-4xl font-extrabold text-center text-white">
                     <i className="fal fa-stars text-amber-400 mr-2" />
-                    Partners
+                    Premium
                 </h1>
             </div>
 
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
-
-            <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://discord.gg/sebastianshop">
-                        <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">𝘚𝘦𝘣𝘢𝘴𝘵𝘪𝘢𝘯 SHOP</h1>        
-                                <div className="flex items-center mt-1">
-                                    <p className="font-normal font-sm">
-                                      Steam random account, valorant random account, item sales, owo, premium, logo, banner and more!
-                                    </p>
-                                </div>     
-                            </div>
-                        </div>
-                    </a>
-                    </div>
-
-
-                            <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://discord.gg/sgExzGVVam">
-                        <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">AndroidCraftMC</h1>        
-                                <div className="flex items-center mt-1">
-                                    <p className="font-normal font-sm">
-                                   It's a new Minecraft RolePlay (RP) server! AndroidCraftMC
-                                    </p>
-                                </div>     
-                            </div>
-                        </div>
-                    </a>
-                    </div>
 
                 </div>
                 <div className="py-10"></div>
