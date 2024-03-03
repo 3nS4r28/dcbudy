@@ -1,9 +1,6 @@
 export default function Pramium() {
 
     return (
-        import { Menu, Transition } from "@headlessui/react";
-import Link from "next/link";
-
 const commands = [
   "/autoplay",
   "/back",
