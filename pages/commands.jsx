@@ -12,9 +12,9 @@ const commands = [
   "!yenile",
   "!reload",
   "!sunucu-bilgi",
-  "sunucubilgi",
-  "sb",
-  "sunucu"
+  "!sunucubilgi",
+  "!sb",
+  "!sunucu"
 ];
 
   return (
