@@ -2,7 +2,7 @@ import { Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
 
 export default function Premium() {
-const commands = [
+const premiumcommands = [
   "/autoplay",
   "/back",
   "/statistic",
@@ -29,6 +29,7 @@ const commands = [
   "/stop",
   "/time",
   "/volume"
+  "/slm"
 ];
 
   return (
