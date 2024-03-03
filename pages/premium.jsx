@@ -1,5 +1,5 @@
 
-export default function Partners() {
+export default function Premium() {
 
     return (
         <>
