@@ -1,4 +1,4 @@
-export default function Premium() {
+export default function PRO() {
 
     return (
         <div>
