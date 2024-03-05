@@ -3,18 +3,22 @@ import Link from "next/link";
 
 export default function Commands() {
 const commands = [
-  "!yardım",
-  "!cmds",
-  "komutlar",
-  "!y",
-  "!komutu-yenile",
-  "!komut-yenile",
-  "!yenile",
-  "!reload",
-  "!sunucu-bilgi",
-  "!sunucubilgi",
-  "!sb",
-  "!sunucu"
+  "dc!yardım",
+  "dc!cmds",
+  "dc!komutlar",
+  "dc!y",
+  "dc!komutu-yenile",
+  "dc!komut-yenile",
+  "dc!yenile",
+  "dc!reload",
+  "dc!sunucu-bilgi",
+  "dc!sunucubilgi",
+  "dc!sb",
+  "dc!sunucu",
+  "dc!own",
+  "dc!sahip",
+  "dc!sc",
+  "dc!gb"
 ];
 
   return (
